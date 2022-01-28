@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: fb23609e87d25de458622c6805a01042
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 196633754603959846
+    second: coco0
+  - first:
+      213: -1782716375504337681
+    second: coco1
+  - first:
+      213: 8579222288909070384
+    second: coco2
+  - first:
+      213: 750284944602560854
+    second: coco3
+  - first:
+      213: -8508651362344047216
+    second: coco4
+  - first:
+      213: 4941377668340607420
+    second: coco5
+  - first:
+      213: 8032106525539420001
+    second: coco6
+  - first:
+      213: 6892163996194753548
+    second: coco7
+  - first:
+      213: -8003275214894151672
+    second: enemigos_POO_8
+  - first:
+      213: -3317127129802514882
+    second: enemigos_POO_9
+  - first:
+      213: 3747904010724361947
+    second: enemigos_POO_10
+  - first:
+      213: 5949000515345367025
+    second: enemigos_POO_11
+  - first:
+      213: 6106831616655230703
+    second: enemigos_POO_12
+  - first:
+      213: 8068228171539312820
+    second: enemigos_POO_13
+  - first:
+      213: 5608954266998670046
+    second: snake0
+  - first:
+      213: 7084329311767602491
+    second: snake1
+  - first:
+      213: -199644344502313739
+    second: snake2
+  - first:
+      213: 3167339626314070360
+    second: enemigos_POO_17
+  - first:
+      213: -1797879105014643541
+    second: enemigos_POO_18
+  - first:
+      213: -545679958346803356
+    second: snake3
+  - first:
+      213: -9020427346017908299
+    second: snake4
+  - first:
+      213: -4093639379611373726
+    second: enemigos_POO_21
+  - first:
+      213: 8952890332537511873
+    second: snake5
+  - first:
+      213: -2363128766322299007
+    second: snake6
+  - first:
+      213: 1530353189704641460
+    second: snake7
+  - first:
+      213: -1216462336034077416
+    second: snake8
+  - first:
+      213: 2268611887006755205
+    second: snake9
+  - first:
+      213: 5049820539971026391
+    second: snake10
+  - first:
+      213: -5906647470395779072
+    second: snake11
+  - first:
+      213: 8250791613325111565
+    second: snake12
+  - first:
+      213: 8288201055902093930
+    second: snake13
+  - first:
+      213: -2500335579195023359
+    second: snake14
+  - first:
+      213: -552898761261864829
+    second: snake15
+  - first:
+      213: 8170232040503618994
+    second: b0
+  - first:
+      213: 3968159851127626224
+    second: b1
+  - first:
+      213: -5943212337212603621
+    second: b2
+  - first:
+      213: -4347369906373010731
+    second: b3
+  - first:
+      213: -6672840698273423740
+    second: b4
+  - first:
+      213: 3421446358247704546
+    second: b5
+  - first:
+      213: -3513516226163328173
+    second: b6
+  - first:
+      213: -5099676574222449818
+    second: b7
+  - first:
+      213: -2044466460662009828
+    second: enemigos_POO_41
+  - first:
+      213: -6334027890223901724
+    second: enemigos_POO_42
+  - first:
+      213: -7800333388461506768
+    second: enemigos_POO_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: coco0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2104
+        width: 427
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6263506ab559ab200800000000000000
+      internalID: 196633754603959846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco1
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2098
+        width: 427
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4cac6d6e48247e0800000000000000
+      internalID: -1782716375504337681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco2
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 2098
+        width: 428
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f98397358f0770800000000000000
+      internalID: 8579222288909070384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1900
+        width: 427
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659fb539e2c896a00800000000000000
+      internalID: 750284944602560854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1901
+        width: 427
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de6ddaaa23be980800000000000000
+      internalID: -8508651362344047216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco5
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1885
+        width: 427
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb96d7e0fcc439440800000000000000
+      internalID: 4941377668340607420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1695
+        width: 427
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167cfdc3456c77f60800000000000000
+      internalID: 8032106525539420001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: coco7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1702
+        width: 427
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ccce663a2e5af50800000000000000
+      internalID: 6892163996194753548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_8
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1785
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cb806897aee090800000000000000
+      internalID: -8003275214894151672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_9
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1744
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5f49437237f1d0800000000000000
+      internalID: -3317127129802514882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1556
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6cc7b27da330430800000000000000
+      internalID: 3747904010724361947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1428
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffb6c513781f8250800000000000000
+      internalID: 5949000515345367025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_12
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1431
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe60cddfff2dfb450800000000000000
+      internalID: 6106831616655230703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_13
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1428
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0766356ca18ff60800000000000000
+      internalID: 8068228171539312820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1357
+        width: 360
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed20ed5303207dd40800000000000000
+      internalID: 5608954266998670046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake1
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1357
+        width: 361
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35abc389f7905260800000000000000
+      internalID: 7084329311767602491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1357
+        width: 368
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc1684c688ba3df0800000000000000
+      internalID: -199644344502313739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_17
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1424
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859f77ddb96a4fb20800000000000000
+      internalID: 3167339626314070360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_18
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1340
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba44184ca76ac07e0800000000000000
+      internalID: -1797879105014643541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1086
+        width: 369
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46750b118fa5d68f0800000000000000
+      internalID: -545679958346803356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1119
+        width: 378
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9026efe1101d280800000000000000
+      internalID: -9020427346017908299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_21
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1212
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fa6bb5ca87037c0800000000000000
+      internalID: -4093639379611373726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake5
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1126
+        width: 378
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf5defa25e0f3c70800000000000000
+      internalID: 8952890332537511873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake6
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 1147
+        width: 378
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f2adc48ea743fd0800000000000000
+      internalID: -2363128766322299007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 815
+        width: 378
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb2b3d2e18ec3510800000000000000
+      internalID: 1530353189704641460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 819
+        width: 379
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8150c0253f14e1fe0800000000000000
+      internalID: -1216462336034077416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake9
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 824
+        width: 378
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589244add7abb7f10800000000000000
+      internalID: 2268611887006755205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake10
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 858
+        width: 379
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb178a601941640800000000000000
+      internalID: 5049820539971026391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake11
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 506
+        width: 378
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089991ab6f570ea0800000000000000
+      internalID: -5906647470395779072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake12
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 528
+        width: 378
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01f30cf143b08270800000000000000
+      internalID: 8250791613325111565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake13
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 533
+        width: 378
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62df0492fa950370800000000000000
+      internalID: 8288201055902093930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake14
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 555
+        width: 377
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1006fceb9060d4dd0800000000000000
+      internalID: -2500335579195023359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snake15
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 218
+        width: 369
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388ab3a8185b358f0800000000000000
+      internalID: -552898761261864829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b0
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 252
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdabbac0ce726170800000000000000
+      internalID: 8170232040503618994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b1
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 250
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9dd624c5cb11730800000000000000
+      internalID: 3968159851127626224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b2
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 249
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1349b72ed7758da0800000000000000
+      internalID: -5943212337212603621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 254
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad96f7a1a0ba3c0800000000000000
+      internalID: -4347369906373010731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b4
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 254
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e94a83dbe4563a0800000000000000
+      internalID: -6672840698273423740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b5
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 255
+        width: 51
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e78861d55b6b7f20800000000000000
+      internalID: 3421446358247704546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b6
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 255
+        width: 52
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb6f29b9b7d3fc0800000000000000
+      internalID: -3513516226163328173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: b7
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 254
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663071ccc2f4a39b0800000000000000
+      internalID: -5099676574222449818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_41
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 83
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c107a09069890a3e0800000000000000
+      internalID: -2044466460662009828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_42
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1489
+        width: 29
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e399c561330918a0800000000000000
+      internalID: -6334027890223901724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigos_POO_43
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1787
+        width: 270
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff1237c16afb390800000000000000
+      internalID: -7800333388461506768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
