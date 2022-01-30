@@ -53,6 +53,7 @@ public class GameManager : MonoBehaviour
     }
 
     private void SetState(GameState newState){
+        //Prueba
         if(newState ==GameState.menu){
             //TODO: hacer el menú
         }else if(newState == GameState.inGame){
