@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MakoController : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class MakoController : MonoBehaviour
     private Rigidbody2D makoRigidBody;
     private  Vector3 startPosition;
     private Animator makoAnimator;
+    //Para puntaje
+    public int score;
+    public Text TXTscore;
 
  
 //controllers Mako animation
@@ -55,8 +59,8 @@ public class MakoController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {   
-        
-            
+            //Suma puntaje
+            TXTscore.text = "Score: " + score;
             // para que cuando oprima espacio o click izquierdo salte
             if( Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.UpArrow)|| Input.GetMouseButtonDown(0)){
                 if(GameManager.sharedInstance.currentState==GameState.inGame){
@@ -91,7 +95,7 @@ public class MakoController : MonoBehaviour
     /// This function is called every fixed framerate frame, if the MonoBehaviour is enabled.
     void FixedUpdate()
     {
-        //para que se pare cuando no esté jugando
+        //para que se pare cuando no este jugando
         if(GameManager.sharedInstance.currentState==GameState.inGame){
             if(makoRigidBody.velocity.x < walkingSpeed){
             makoRigidBody.velocity = new Vector2(
@@ -128,10 +132,10 @@ public class MakoController : MonoBehaviour
             
         }
         
-        //cada vez que toque, saltará con la jump force, en modo impulso para que sea de una con toda la fuerza
+        //cada vez que toque, saltara con la jump force, en modo impulso para que sea de una con toda la fuerza
     }    
     
-        //así sabemos si está en el suelo y no repetir 
+        //asi sabemos si esta en el suelo y no repetir 
      bool isTouchingGround()
      {
             if(Physics2D.Raycast(this.transform.position,
@@ -154,6 +158,15 @@ public class MakoController : MonoBehaviour
         this.makoAnimator.SetBool(STATE_LIVE, false);
         GameManager.sharedInstance.GameOver();
     } 
+    //Suma de score y desaparece el objeto
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "Coin")
+        {
+            score++;
+            Destroy(collision.gameObject);
+        }
+    }
     
 
 }
